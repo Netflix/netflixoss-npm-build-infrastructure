@@ -1,0 +1,18 @@
+{
+  "name": "@netflix/netflixoss-npm-build-infrastructure",
+  "version": "1.0.0",
+  "description": "Example project to show how to setup build infrastructure for netflixoss npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warn: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/netflix/netflixoss-npm-build-infrastructure.git"
+  },
+  "author": "Martin Chalupa",
+  "bugs": {
+    "url": "https://github.com/netflix/netflixoss-npm-build-infrastructure/issues"
+  },
+  "homepage": "https://github.com/netflix/netflixoss-npm-build-infrastructure#readme"
+}
