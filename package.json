@@ -11,6 +11,9 @@
     "url": "git+ssh://git@github.com/netflix/netflixoss-npm-build-infrastructure.git"
   },
   "author": "Martin Chalupa",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/netflix/netflixoss-npm-build-infrastructure/issues"
   },
