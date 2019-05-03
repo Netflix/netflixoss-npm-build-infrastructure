@@ -3,7 +3,7 @@ node_js:
 - '6.7'
 deploy:
   provider: npm
-  email: "buildtools@netflix.com"
+  email: "npm@netflix.com"
   api_key:
     secure: I4MNbNgmmNI5+zMpN0pI27tXtPzEU+PBSdCxsK6JsBWDgEas3MHiyrr/eXqnM6ZqO6dp5O7XlOwcAQglt/HyfFiUbKtmhUfexwcdRHYYGG1R34/oImoAPc/TJ8rqzAwY/mxmVtroI/5FaAmOFKyCA8sgJ9YWgig0yjGnD1hpJi7HNXV+197o/deFSxyHBTcCoSkzCNxS8nQHPsQw+CJJVKPPklC62bTVZE/0fgQMylpy/KePTi0sRPa8260Xfn9krBH9mAKa+tuK2Dk20vQ8qO3RBhDeZF4JqNVtKIpTxTpivEZJF3ucoF0odFao21fzLF4Xcfb2QLS7bzMQdrXKy6jUcizgH43RwGmYHkCB4OLzrxi4yaxB7iSKE5GzfDYc7Ao89f3TXn2QRDXodJIJzFuiZTL7FeM5WG4dblrab1pqpdImVgeAECvTGxd7I/s9PNOi8H4NWRVghOV/tJm2vik+OemwTEAG3KyVPIagU3eJMqje3wazQb70dGIsp9ksPDWt/dj4e7Y9q78qdKlVH5I1sq4Bm+tI4s+GaqLLY7AIpbQ/e24MqML+jox9C6qyvcGsUy4diVnybcxb/bXlNjLuBXN2T/hVfjP5Gd35SsS1yN8eMn+O39wUVJUEMmptE+o5uHTf7yceLm/MeHqj9gIQt9pa/tJdWk8kJumBwdY=
   on:
