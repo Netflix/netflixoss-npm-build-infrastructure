@@ -1,6 +1,6 @@
 {
   "name": "@netflix/netflixoss-npm-build-infrastructure",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Example project to show how to setup build infrastructure for netflixoss npm project",
   "main": "index.js",
   "scripts": {
